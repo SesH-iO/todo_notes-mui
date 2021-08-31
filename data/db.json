@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Project payment",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec ac odio tempor orci. Amet aliquam id diam maecenas ultricies mi. Nisi lacus sed viverra tellus. Morbi quis commodo odio aenean sed adipiscing diam donec adipiscing. Ut eu sem integer vitae justo eget magna fermentum iaculis. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Eu facilisis sed odio morbi quis commodo odio aenean. Amet nulla facilisi morbi tempus.",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 7
+    },
+    {
+      "title": "Project payment",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec ac odio tempor orci. Amet aliquam id diam maecenas ultricies mi. Nisi lacus sed viverra tellus. Morbi quis commodo odio aenean sed adipiscing diam donec adipiscing. Ut eu sem integer vitae justo eget magna fermentum iaculis. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Eu facilisis sed odio morbi quis commodo odio aenean. Amet nulla facilisi morbi tempus.",
+      "category": "money",
+      "id": 8
+    }
+  ]
+}
